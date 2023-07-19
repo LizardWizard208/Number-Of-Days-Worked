@@ -1,5 +1,4 @@
 /*
-* CSC-240-001
 * Date: 07/09/23
 *
 * Assignment: Number of Days Worked
